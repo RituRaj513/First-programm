@@ -1,2 +1,2 @@
 # First-programm
-my firt programm
+my first programm
